@@ -1,0 +1,1 @@
+[Algorithms-specialization-stanford](https://github.com/azurepwq/algorithms-specialization-stanford) © 2024 by [azurepwq](https://github.com/azurepwq) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
